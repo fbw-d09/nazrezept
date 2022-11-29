@@ -37,7 +37,7 @@ _Geben Sie auch eine Hollerblütendolde zusammen mit dem Basilikum und den Zitro
 
 ---
     
-###**Nützliche Information**
+### Nützliche Information
 
 
 *Getränke mit einem hohen Zuckeranteil, wie etwa Limonade, erhöhen das Risiko für zahlreiche Erkrankungen wie Diabetes, das Metabolische Syndrom, Herz-Kreislauf-Beschwerden und natürlich Übergewicht.*
